@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=38B2AC&height=200&section=header&text=jylmdev-cyber&fontSize=70&animation=fadeIn&fontAlignY=35" width="100%" />
 
-  <h1>👋 Hey there, I'm <span style="color:#38B2AC">Julián</span></h1>
+  <h1>👋 Hey there, I'm <span style="color:#38B2AC">jimdev</span></h1>
   <p align="center">
     <strong>Full-Stack Developer | Python & JavaScript Expert | Scalable Architectures</strong>
   </p>
